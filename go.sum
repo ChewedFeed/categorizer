@@ -1,0 +1,10 @@
+github.com/aws/aws-sdk-go v1.15.25 h1:n0+QZLTS5npWwIArmudXj0z6Tun7yEBFhbE1sRKR4M8=
+github.com/aws/aws-sdk-go v1.15.25/go.mod h1:mFuSZ37Z9YOHbQEwBWztmVzqXrEkub65tZoCYDt7FT0=
+github.com/bugfixes/go-bugfixes v1.0.3 h1:4td7eBbFoTm9Ne88I5yVzLfphKhnHu+/ENRrgSKof5Q=
+github.com/bugfixes/go-bugfixes v1.0.3/go.mod h1:BmGmj7noiD0F3e88q6z/ljSMllP9AhLaHMMG9AIooBs=
+github.com/go-ini/ini v1.25.4 h1:Mujh4R/dH6YL8bxuISne3xX2+qcQ9p0IxKAP6ExWoUo=
+github.com/go-ini/ini v1.25.4/go.mod h1:ByCAeIL28uOIIG0E3PJtZPDL8WnHpFKFOtgjp+3Ies8=
+github.com/jmespath/go-jmespath v0.0.0-20160202185014-0b12d6b521d8 h1:12VvqtR6Aowv3l/EQUlocDHW2Cp4G9WJVH7uyH8QFJE=
+github.com/jmespath/go-jmespath v0.0.0-20160202185014-0b12d6b521d8/go.mod h1:Nht3zPeWKUH0NzdCt2Blrr5ys8VGpn0CEB0cQHVjt7k=
+github.com/joho/godotenv v1.2.0 h1:vGTvz69FzUFp+X4/bAkb0j5BoLC+9bpqTWY8mjhA9pc=
+github.com/joho/godotenv v1.2.0/go.mod h1:7hK45KPybAkOC6peb+G5yklZfMxEjkZhHbwpqxOKXbg=
