@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 git stash -q --keep-index
 
-go test github.com/chewedfeed.com/categorizer
+go test github.com/chewedfeed/categorizer
 RESULT=$?
 git stash pop -q
 
