@@ -12,6 +12,8 @@ github.com/jmespath/go-jmespath v0.0.0-20160202185014-0b12d6b521d8 h1:12VvqtR6Ao
 github.com/jmespath/go-jmespath v0.0.0-20160202185014-0b12d6b521d8/go.mod h1:Nht3zPeWKUH0NzdCt2Blrr5ys8VGpn0CEB0cQHVjt7k=
 github.com/joho/godotenv v1.2.0 h1:vGTvz69FzUFp+X4/bAkb0j5BoLC+9bpqTWY8mjhA9pc=
 github.com/joho/godotenv v1.2.0/go.mod h1:7hK45KPybAkOC6peb+G5yklZfMxEjkZhHbwpqxOKXbg=
+github.com/joho/godotenv v1.3.0 h1:Zjp+RcGpHhGlrMbJzXTrZZPrWj+1vfm90La1wgB6Bhc=
+github.com/joho/godotenv v1.3.0/go.mod h1:7hK45KPybAkOC6peb+G5yklZfMxEjkZhHbwpqxOKXbg=
 github.com/mingrammer/commonregex v1.0.0 h1:0nTEyFI+CKWog0IWbyP8jFwgdd+JZ30UYfYce/lG/9w=
 github.com/mingrammer/commonregex v1.0.0/go.mod h1:GQen+jIfhWmXmDCzNk4ucLO8VUMxJO5QPWZ2RPwrS3A=
 github.com/montanaflynn/stats v0.0.0-20180722130825-07668e8400fe h1:2IprKjodZTUOEddDqYqaQ+V7uRNUMT3dI2UWgT+Z9E0=
