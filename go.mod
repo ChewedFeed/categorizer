@@ -5,7 +5,7 @@ require (
 	github.com/bugfixes/go-bugfixes v1.0.3
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/deckarep/golang-set v0.0.0-20180831180637-cbaa98ba5575 // indirect
-	github.com/joho/godotenv v1.2.0
+	github.com/joho/godotenv v1.3.0
 	github.com/mingrammer/commonregex v1.0.0 // indirect
 	github.com/montanaflynn/stats v0.0.0-20180722130825-07668e8400fe // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
