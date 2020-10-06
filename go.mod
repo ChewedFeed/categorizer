@@ -1,7 +1,7 @@
 module github.com/chewedfeed/categorizer
 
 require (
-	github.com/aws/aws-sdk-go v1.19.38
+	github.com/aws/aws-sdk-go v1.35.3
 	github.com/bugfixes/go-bugfixes v1.0.3
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/deckarep/golang-set v0.0.0-20180831180637-cbaa98ba5575 // indirect
